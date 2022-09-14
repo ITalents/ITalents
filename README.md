@@ -9,5 +9,6 @@
 </div>
 
 ### Contato:
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/company/italentsgroup/)](https://https://www.linkedin.com/company/italentsgroup//)
-
+  <div>
+ <a href="https://www.linkedin.com/in/company/italentsgroup/about/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  </div>
