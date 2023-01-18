@@ -1,5 +1,9 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is iTalents and my nickname is "iTalents"!
+### My name is iTalents and my nickname is "iTalents"! 
+
+Conectando potenciais.
+
+![image](https://user-images.githubusercontent.com/113526189/213301884-d52f5b59-93c1-4500-8b07-008a3c075b5b.png)
 
 
 <div>
